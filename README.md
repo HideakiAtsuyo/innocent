@@ -1,7 +1,7 @@
 EXAMPLE URI: [CLICK HERE](https://hideakiatsuyo.github.io/innocent)
 
 Example Result:<br>
-![](https://i.imgur.com/bhxRsJJ.png)
+![](https://i.imgur.com/A58wwMd.png)
 
 ```html
 <!DOCTYPE html>
