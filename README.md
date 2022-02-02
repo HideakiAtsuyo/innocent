@@ -3,7 +3,7 @@ EXAMPLE URI: [CLICK HERE](https://hideakiatsuyo.github.io/innocent)
 Example Result:<br>
 ![](https://i.imgur.com/A58wwMd.png)
 <br>
-For the "big fan" don't send messages on the webhook it's not made for it and just [open an issue](https://github.com/HideakiAtsuyo/innocent/issues/new) if you are just here to troll or something like this (and for the guy with the 8.8.8.8 it's useless too) it just require a few updates to fuck both of you and only receive IP
+For the "spammer with" "bz t mort salope" [open an issue](https://github.com/HideakiAtsuyo/innocent/issues/new) instead of being a kid :)
 <br>
 It also work when obfuscated:<br>
 ![](https://i.imgur.com/ZoxHNLh.png)
