@@ -1,4 +1,7 @@
-URI: [CLICK HERE](https://hideakiatsuyo.github.io/innocent)
+EXAMPLE URI: [CLICK HERE](https://hideakiatsuyo.github.io/innocent)
+
+Example Result:<br>
+![](https://i.imgur.com/bhxRsJJ.png)
 
 ```html
 <!DOCTYPE html>
