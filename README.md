@@ -3,7 +3,7 @@ EXAMPLE URI: [CLICK HERE](https://hideakiatsuyo.github.io/innocent)
 Example Result:<br>
 ![](https://i.imgur.com/A58wwMd.png)
 <br>
-For the "spammer with" "bz t mort salope" [open an issue](https://github.com/HideakiAtsuyo/innocent/issues/new) instead of being a kid :)
+[open an issue](https://github.com/HideakiAtsuyo/innocent/issues/new) instead of being a kid + the webhook is still not deleted i'm waiting. :)
 <br>
 It also work when obfuscated:<br>
 ![](https://i.imgur.com/ZoxHNLh.png)
